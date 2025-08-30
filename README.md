@@ -35,7 +35,7 @@ app.listen(3000,()=>{
 
 ## Difference between  Caret (`^`) vs. Tilde (`~`)
 
->### In JavaScript (specifically in the context of package management with npm or yarn), the caret (^) and tilde (~) symbols are used in package.json to specify version ranges. They indicate how flexible the versioning of a package is when you're installing dependencies.
+>### In JavaScript (specifically in the context of package management with npm or yarn), the caret (^) and tilde (~) symbols are used in package.json to specify version ranges. They indicate how flexible the versioning of a package is when you're installing dependencies.//////////
 
 ## `1.Caret (^):`
 - #### The caret symbol allows updates to non-breaking changes based on semver (Semantic Versioning) rules.
