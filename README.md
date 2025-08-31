@@ -56,7 +56,7 @@ app.listen(3000,()=>{
 
 ## `2. Tilde (~):`
 - The tilde symbol allows updates to the patch version, but not the minor or major version.
-It only allows updates within the same minor version.
+It only allows updates within the same minor version./////////////
 
 ### **Example**:
 
