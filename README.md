@@ -9,10 +9,10 @@ app.listen(3000,()=>{
 });
 ```
 
-- it wll always show a "hello from the server" whatevr be the request i.e if i write  `localhost:3000/hello` it will show the hello from the server
+- it wll always show a "hello from the server" whatevr be the request i.e if i write  `localhost:3000/hello` it will show the hello from the server ????
 
 
-### to change this we have to do changes on the code //////////////
+### to change this we have to do changes on the code ///////////////////
 
 ```javascript
 const express=require("express");
